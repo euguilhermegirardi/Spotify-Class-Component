@@ -16,13 +16,13 @@ const ErrorBox = ({ error: { message, visible }, hideError }) =>
     </Container>
 );
 
-// ErrorBox.propTypes = {
-//   hideError: PropTypes.func.Required,
-//   error: PropTypes.shape({
-//     visible: PropTypes.bool,
-//     message: PropTypes.string,
-//   }).isRequired,
-// };
+ErrorBox.propTypes = {
+  hideError: PropTypes.func.Required,
+  error: PropTypes.shape({
+    visible: PropTypes.bool,
+    message: PropTypes.string,
+  }).isRequired,
+};
 
 const mapStateToProps = state => ({
   error: state.error,
