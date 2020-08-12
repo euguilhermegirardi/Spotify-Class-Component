@@ -1,0 +1,140 @@
+{
+  "playlists": [
+    {
+      "id": 1,
+      "title": "For Mondays!",
+      "description": "Be focused with some good rock.",
+      "thumbnail": "https://i.ebayimg.com/images/g/FUoAAOSwz7NaYIRJ/s-l300.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Need more coffee?",
+      "description": "It'll keep you awake!",
+      "thumbnail": "https://img.freepik.com/free-vector/rock-rock-typo_56086-58.jpg?size=338&ext=jpg"
+    },
+    {
+      "id": 3,
+      "title": "'70s",
+      "description": "Go back to the '70s!",
+      "thumbnail": "http://freemusic57.com/wp-content/uploads/2016/07/Rainbow_1978_Long_live_rock_n_roll_3-2462.jpg"
+    },
+    {
+      "id": 4,
+      "title": "'90s and '00s only!",
+      "description": "Remember it!",
+      "thumbnail": "https://musiczone.ie/wp-content/uploads/2016/10/Blink-182-Enema-Of-The-State.jpg"
+    }
+  ],
+  "songs": [
+    {
+      "id": 0,
+      "title": "Papercut",
+      "author": "Linkin Park",
+      "album": "Hybrid Theory",
+      "file": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/gonative/linkin_park.jpg",
+      "playlistId": 1,
+      "duration": "3:04"
+    },
+    {
+      "id": 1,
+      "title": "One Step Closer",
+      "author": "Linkin Park",
+      "album": "Hybrid Theory",
+      "file": "https://s3-sa-east-1.amazonaws.com/gonative/2.mp3",
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/gonative/linkin_park.jpg",
+      "playlistId": 2,
+      "duration": "2:35"
+    },
+    {
+      "id": 2,
+      "title": "With You",
+      "author": "Linkin Park",
+      "album": "Hybrid Theory",
+      "file": "https://s3-sa-east-1.amazonaws.com/gonative/3.mp3",
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/gonative/linkin_park.jpg",
+      "playlistId": 3,
+      "duration": "3:23"
+    },
+    {
+      "id": 3,
+      "title": "Points of Authority",
+      "author": "Linkin Park",
+      "album": "Hybrid Theory",
+      "file": "https://s3-sa-east-1.amazonaws.com/gonative/4.mp3",
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/gonative/linkin_park.jpg",
+      "playlistId": 4,
+      "duration": "3:20"
+    },
+    {
+      "id": 4,
+      "title": "Crawling",
+      "author": "Linkin Park",
+      "album": "Hybrid Theory",
+      "file": "https://s3-sa-east-1.amazonaws.com/gonative/5.mp3",
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/gonative/linkin_park.jpg",
+      "playlistId": 4,
+      "duration": "3:29"
+    },
+    {
+      "id": 5,
+      "title": "Papercut",
+      "author": "Linkin Park",
+      "album": "Hybrid Theory",
+      "file": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/gonative/linkin_park.jpg",
+      "playlistId": 1,
+      "duration": "3:04"
+    },
+    {
+      "id": 6,
+      "title": "Papercut",
+      "author": "Linkin Park",
+      "album": "Hybrid Theory",
+      "file": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/gonative/linkin_park.jpg",
+      "playlistId": 1,
+      "duration": "3:04"
+    },
+    {
+      "id": 7,
+      "title": "Papercut",
+      "author": "Linkin Park",
+      "album": "Hybrid Theory",
+      "file": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/gonative/linkin_park.jpg",
+      "playlistId": 1,
+      "duration": "3:04"
+    },
+    {
+      "id": 8,
+      "title": "Papercut",
+      "author": "Linkin Park",
+      "album": "Hybrid Theory",
+      "file": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/gonative/linkin_park.jpg",
+      "playlistId": 1,
+      "duration": "3:04"
+    },
+    {
+      "id": 9,
+      "title": "Papercut",
+      "author": "Linkin Park",
+      "album": "Hybrid Theory",
+      "file": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/gonative/linkin_park.jpg",
+      "playlistId": 1,
+      "duration": "3:04"
+    },
+    {
+      "id": 10,
+      "title": "Papercut",
+      "author": "Linkin Park",
+      "album": "Hybrid Theory",
+      "file": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
+      "thumbnail": "https://s3-sa-east-1.amazonaws.com/gonative/linkin_park.jpg",
+      "playlistId": 1,
+      "duration": "3:04"
+    }
+  ]
+}
