@@ -1,5 +1,4 @@
 # Spotify-Class-Component
-[![Netlify Status](https://api.netlify.com/api/v1/badges/60e55c3c-09a9-495c-ae77-5eb295bc0b8b/deploy-status)](https://app.netlify.com/sites/spotify-class-component/deploys)
 
 This is the frontend of the **Spotify-Class-Component** project developed by [**_Rocketseat_**](https://rocketseat.com.br/), a Brazilian company that teaches Node.JS, ReactJS and React Native.
 This is a project where I could learn many professional techniques that is used in "the real world".
